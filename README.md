@@ -1,5 +1,5 @@
-# stage-02-treine.me
-# Stage-02-Moveis-Customizados
+# TRABALHOS
+
 ## Descrição
  - Homepage responsiva, com animações e transições
  - Conhecimentos adquiridos a partir do programa Explorer e da documentação css
