@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Vehicles Styles
 
 A page with cards that show diferents styles of vehicles.
@@ -6,9 +6,9 @@ A page with cards that show diferents styles of vehicles.
 
 ## Features
 
- [x]  100% responsive
- [x]  Transictions
- [x]  Animations
+ - [x]  100% responsive
+ - [x]  Transictions
+ - [x]  Animations
 
 <h4 align="center"> 
  🚧  Project Status: Finished  🚧
@@ -17,7 +17,7 @@ A page with cards that show diferents styles of vehicles.
  
 ## Demonstration
 
-
+![Print](https://user-images.githubusercontent.com/101666833/186973224-f4161de7-c948-4618-8aaa-733ada267608.png)
 
 ## References
 
@@ -34,7 +34,6 @@ In this project I learned how to use Grid and that was something that I had difi
 
 * HTML
 * CSS
-
 
 
 ## 🚀 About me
