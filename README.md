@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicles Styles
 
 A page with cards that show diferents styles of vehicles.
@@ -56,4 +57,11 @@ I study software development since January 2022 and can work both on Back-end an
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marciano/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marciano_vitor)
+=======
+# TRABALHOS
+
+## Descrição
+ - Homepage responsiva, com animações e transições
+ - Conhecimentos adquiridos a partir do programa Explorer e da documentação css
+>>>>>>> 612e8efe06ab77a2a7c2e4e7267ded491c22d66e
 
