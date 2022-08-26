@@ -29,7 +29,7 @@ A page with cards that show diferents styles of vehicles.
 In this project I learned how to use Grid and that was something that I had dificulties. Besides that, I improved my skills with CSS doing the transitions and animations, positioning the images on the right place... I'm very happy with the result!
 
 
-## 🛠 Skills
+## 🛠 Skills used
 
 * HTML
 * CSS
